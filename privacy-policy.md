@@ -1,125 +1,157 @@
-Privacy Policy for LodumAI
-Last Updated: [4th JUly 2025]
+## **Privacy Policy — LodumAI Assistance Limited**
 
-Welcome to LodumAI, your AI-powered comapanion assistant on WhatsApp capable of managing you want and your everyday activities. This Privacy Policy outlines how we collect, use, store, and protect your personal information in compliance with the Nigeria Data Protection Regulation (NDPR) 2019 and other applicable data privacy laws.
+**Effective Date:** *4 July, 2025*
+**Website:** *lodumai.com*
 
-1. Our Commitment to Your Privacy
-At LodumAI, we value your trust. We are committed to safeguarding your personal data and ensuring transparency in how your information is handled. This policy explains your rights and our obligations under the NDPR.
+Welcome to **LodumAI** — your AI-powered companion assistant available on WhatsApp and other supported platforms. This Privacy Policy explains how LodumAI Assistance Limited (“we”, “us”, “our”) collects, uses, stores, shares, and protects personal information when you use our services.
 
-2. Information We Collect
-When you interact with LodumAI via WhatsApp, we may collect the following categories of information:
+By interacting with LodumAI, you acknowledge that you have read, understood, and agreed to the practices described in this policy.
 
-Personal Information:
-Full name
+---
 
-Phone number (as available from WhatsApp)
+### **1. Our Commitment to Privacy**
 
-Bank Verification Number (BVN)
+Your privacy is important to us. We uphold the standards of the **Nigeria Data Protection Regulation (NDPR) 2019**, the **Nigeria Data Protection Act (NDPA) 2023**, and all applicable data protection laws.
+We are transparent about how your information is processed and committed to protecting it at all times.
 
-WhatsApp profile photo (if publicly accessible)
+---
 
-Transaction & Usage Data:
-Photos of receipts, bills, or financial documents you send
+### **2. Information We Collect**
 
-Voice notes and text messages shared with LodumAI
+We may collect the following categories of information when you use LodumAI through WhatsApp or other integrated platforms:
 
-Financial details such as transaction amount, recipients, and purpose
+#### **Personal Information**
 
-Metadata (timestamps, frequency, and session activity)
+* Full Name
+* Phone Number (as provided by WhatsApp)
+* Bank Verification Number (BVN) when required for regulated services
+* WhatsApp profile photo (if publicly visible)
 
-3. Lawful Basis for Processing Your Data (NDPR Compliance)
-Under NDPR, we collect and process your data based on the following lawful grounds:
+#### **Financial & Transaction Data**
 
-Consent – You give clear consent by using LodumAI's services via WhatsApp.
+* Transaction details (amount, recipient, purpose)
+* Payment history, bills, receipts, invoices, transaction notes
+* Information extracted from uploaded screenshots, images or documents
 
-Contract – To provide you with the requested financial services.
+#### **Communication & Usage Data**
 
-Legal obligation – To meet regulatory, anti-fraud, and KYC requirements.
+* Text messages, images and voice notes you send
+* User preferences and interaction history
+* Metadata such as timestamps, device details and activity logs
 
-Legitimate interest – To improve and secure our platform for better user experience.
+*We do not collect more information than necessary to deliver our services.*
 
-4. How We Use Your Information
-Your information is used strictly for the following purposes:
+---
 
-Responding to and processing financial-related queries
+### **3. Legal Basis for Processing**
 
-Providing intelligent insights and spending analysis
+We process personal data only where a legal basis exists:
 
-Enhancing user experience through personalized responses
+| Legal Basis             | Why we rely on it                                    |
+| ----------------------- | ---------------------------------------------------- |
+| **Consent**             | User grants consent by interacting with LodumAI.     |
+| **Contract**            | To deliver requested digital and financial services. |
+| **Legal Obligation**    | Compliance with fraud prevention, KYC and AML laws.  |
+| **Legitimate Interest** | Platform improvement, analytics and security.        |
 
-Improving the performance of our AI systems (text, voice, and image analysis)
+---
 
-Verifying identity and preventing fraudulent activities
+### **4. How We Use Your Data**
 
-Meeting regulatory or legal requirements
+Your information may be used to:
 
-We do not sell or rent your personal data to third parties.
+* Respond to queries and execute financial transactions
+* Provide reminders, automation and personalized assistance
+* Improve AI performance including voice and document recognition
+* Verify identity and prevent fraud or unauthorized access
+* Comply with regulatory or audit obligations
 
-5. Voice & Image Processing
-LodumAI processes voice notes and images using machine learning tools to extract relevant financial data (e.g., account numbers, bill amounts). These inputs are:
+**We do not sell or rent your personal data to third parties.**
 
-Processed temporarily for service delivery
+---
 
-Anonymized or stripped of identifiable markers before being used to improve our AI models
+### **5. Voice, Image & Document Processing**
 
-6. Data Security & Retention
-We implement industry-standard security measures, including:
+Images and voice notes may be processed with machine learning tools to extract relevant data such as:
 
-Encrypted data transmission and storage
+* Account numbers
+* Electricity token numbers
+* Bill details and transaction amounts
 
-Secure servers with restricted access
+Processed data may be anonymized for model improvement, with identifiable details removed.
 
-Role-based access control for authorized personnel only
+---
 
-Data Retention:
-Your data is retained only for:
+### **6. Data Security & Retention**
 
-The duration necessary to deliver our services
+We implement robust security measures, including:
 
-Legal compliance
+* Encryption for data transmission and storage
+* Firewall-protected and access-controlled servers
+* Role-based authorization for employee access
+* Continuous monitoring and risk detection systems
 
-Platform enhancement
+Data is retained only as long as necessary for:
 
-You may request data deletion at any time by emailing: privacy@lodum.ai
+* Service delivery
+* Legal compliance
+* Fraud prevention and security monitoring
+* Platform improvement
 
-7. Third-Party Integrations
-LodumAI may interface with trusted third-party services such as:
+Deletion requests can be made anytime via:
+📩 **[privacy@lodumai.com](mailto:privacy@lodumai.com)**
 
-Payment processors
+---
 
-Verification systems
+### **7. Third-Party Integrations**
 
-Data analytics tools
+We may share limited data—only where necessary—with trusted partners such as:
 
-We ensure all third parties comply with NDPR requirements and only share data necessary for service delivery or legal compliance.
+* Financial/payment processors
+* Identity verification services
+* Analytics and cloud infrastructure tools
 
-8. Your NDPR Rights
-Under the Nigeria Data Protection Regulation, you have the right to:
+All partners must comply with NDPR/NDPA obligations and maintain strict confidentiality.
 
-Access: Request the data we hold about you
+---
 
-Rectification: Correct or update inaccurate information
+### **8. Your Rights Under NDPR / NDPA**
 
-Erasure: Request deletion of your data
+You have the right to:
 
-Withdraw consent at any time (subject to limitations on service delivery)
+* **Access** your data
+* **Correct** inaccurate information
+* **Request deletion** of your data
+* **Withdraw consent** for processing
+* **Export/transfer** your data (portability)
+* **Submit complaints** to the Nigeria Data Protection Bureau (NDPB)
 
-Data portability: Receive your data in a structured, machine-readable format
+Requests may be sent to:
+📩 **[privacy@lodumai.com](mailto:privacy@lodumai.com)**
 
-Lodge a complaint with NITDA if you feel your rights are violated
+---
 
-To exercise any of these rights, contact our Data Protection Officer at privacy@lodum.ai
+### **9. Children’s Data**
 
-9. Children’s Privacy
-LodumAI is not intended for individuals under the age of 18. We do not knowingly process data from minors. If such data is identified, it will be promptly deleted.
+LodumAI is intended for users aged **18 and above**.
+If we discover that we have collected data from a minor, it will be erased immediately.
 
-10. Policy Updates
-We may revise this Privacy Policy from time to time. Major updates will be communicated via WhatsApp or published on our official channels. Please review this policy regularly for any changes.
+---
 
-11. Contact Us
-For questions, concerns, or data-related requests, reach us via:
+### **10. Policy Updates**
 
-Support: support@lodum.ai
-Data Protection Officer: privacy@lodum.ai
+We may occasionally update this Privacy Policy. Revised versions will be published at:
+🔗 **lodumai.com/privacy**
 
-You may also contact the Nigeria Data Protection Bureau (NDPB) if you believe your data rights are being infringed.
+Continued use of LodumAI after updates constitutes acceptance of the revised terms.
+
+---
+
+### **11. Contact Information**
+
+| Department              | Email                                                 |
+| ----------------------- | ----------------------------------------------------- |
+| General Support         | **[support@lodumai.com](mailto:support@lodumai.com)** |
+| Data Protection Officer | **[privacy@lodumai.com](mailto:privacy@lodumai.com)** |
+
+---
